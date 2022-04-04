@@ -1,0 +1,2 @@
+# AlgorithmsJavaScriptBasic
+Print numbers
