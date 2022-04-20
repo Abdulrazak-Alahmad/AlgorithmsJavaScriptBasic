@@ -1,3 +1,2 @@
 # AlgorithmsJavaScriptBasic
-Print numbers, odd numbers, average and sum.
-Use FOR loop and IF condition through Array.
+Search and replace on the sentence using the arguments provided and return the new sentence.
